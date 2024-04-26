@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфигурация" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="790e94298b59de448f6e6c4c405a80f000000000"/>
+		<Metadata name="Language.Русский" id="b7c74c9c-6ffe-44d5-8b35-7711b27b85ef" configVersion="52842f6f1540894b919a6b7f513c78d700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
