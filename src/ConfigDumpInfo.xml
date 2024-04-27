@@ -1,7 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="790e94298b59de448f6e6c4c405a80f000000000"/>
+		<Metadata name="Catalog.Услуги" id="0bebc44e-0c04-4b6a-b975-57d3a54b6609" configVersion="389776d4cbeb494a8775bebeff130c8a00000000">
+			<Metadata name="Catalog.Услуги.Attribute.Стоимость" id="72cb84a6-60ea-4701-931c-e7b7fdfbacc2"/>
+		</Metadata>
+		<Metadata name="Catalog.Услуги.Form.ФормаВыбора" id="0de240c5-daf7-42a6-a652-404248df5a28" configVersion="9f84c8350519ee458e22e285daf56aaf00000000"/>
+		<Metadata name="Catalog.Услуги.Form.ФормаВыбора.Form" id="0de240c5-daf7-42a6-a652-404248df5a28.0" configVersion="b8fba5d369e2c84eb4d9b575889142f400000000"/>
+		<Metadata name="Catalog.Услуги.Form.ФормаСписка" id="d1a2f174-d50e-44b8-bd2e-90940a7682b0" configVersion="6798aedcb5298046b31cf7ca2cdc0bbd00000000"/>
+		<Metadata name="Catalog.Услуги.Form.ФормаСписка.Form" id="d1a2f174-d50e-44b8-bd2e-90940a7682b0.0" configVersion="c09339914a100648b1ce31e46c6d612900000000"/>
+		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46" configVersion="94008598cfcef84e9980548655d8c69d00000000"/>
+		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента.Form" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46.0" configVersion="67e5cec1c8fd7b43b2c498fc3f85647400000000"/>
+		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="111227221594754e83913c14075e623f00000000"/>
 		<Metadata name="Language.Русский" id="b7c74c9c-6ffe-44d5-8b35-7711b27b85ef" configVersion="52842f6f1540894b919a6b7f513c78d700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
