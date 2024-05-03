@@ -1,4 +1,0 @@
-﻿New: DataProcessor.СозданиеЗаписиКлиента
-New: DataProcessor.СозданиеЗаписиКлиента.Form.Форма
-New: DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form
-Modified: Configuration.Автосервис

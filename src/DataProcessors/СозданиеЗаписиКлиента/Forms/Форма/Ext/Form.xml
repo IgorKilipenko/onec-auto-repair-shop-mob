@@ -1,21 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
-	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
-		<ChildItems>
-			<Button name="ФормаЗаписаться" id="35">
-				<Type>CommandBarButton</Type>
-				<DefaultButton>true</DefaultButton>
-				<CommandName>Form.Command.Записаться</CommandName>
-				<ExtendedTooltip name="ФормаЗаписатьсяРасширеннаяПодсказка" id="36"/>
-			</Button>
-		</ChildItems>
-	</AutoCommandBar>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<InputField name="ДатаЗаписи" id="1">
 			<DataPath>Объект.ДатаЗаписи</DataPath>
+			<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+			<TitleLocation>Top</TitleLocation>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ДатаЗаписиКонтекстноеМеню" id="2"/>
@@ -26,17 +19,12 @@
 		</InputField>
 		<InputField name="Сотрудник" id="4">
 			<DataPath>Объект.Сотрудник</DataPath>
+			<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+			<TitleLocation>Top</TitleLocation>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="СотрудникКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="СотрудникРасширеннаяПодсказка" id="6"/>
-		</InputField>
-		<InputField name="ОбщаяСтоимость" id="7">
-			<DataPath>Объект.ОбщаяСтоимость</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ОбщаяСтоимостьКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="ОбщаяСтоимостьРасширеннаяПодсказка" id="9"/>
 		</InputField>
 		<Table name="Услуги" id="10">
 			<Representation>List</Representation>
@@ -109,6 +97,75 @@
 				</InputField>
 			</ChildItems>
 		</Table>
+		<UsualGroup name="ГруппаПодвал" id="37">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа подвал</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа подвал</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ToolTipRepresentation>None</ToolTipRepresentation>
+			<HorizontalStretch>true</HorizontalStretch>
+			<Group>Vertical</Group>
+			<HorizontalAlign>Center</HorizontalAlign>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ThroughAlign>DontUse</ThroughAlign>
+			<ExtendedTooltip name="ГруппаПодвалРасширеннаяПодсказка" id="38"/>
+			<ChildItems>
+				<UsualGroup name="Группа1" id="39">
+					<Group>Vertical</Group>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="40"/>
+					<ChildItems>
+						<LabelDecoration name="ДекорацияОбщаяСтоимость" id="41">
+							<Font ref="style:NormalTextFont" height="11" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+							<Title formatted="false">
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Общая стоимость</v8:content>
+								</v8:item>
+							</Title>
+							<ContextMenu name="ДекорацияОбщаяСтоимостьКонтекстноеМеню" id="42"/>
+							<ExtendedTooltip name="ДекорацияОбщаяСтоимостьРасширеннаяПодсказка" id="43"/>
+						</LabelDecoration>
+						<LabelField name="ОбщаяСтоимость" id="7">
+							<DataPath>Объект.ОбщаяСтоимость</DataPath>
+							<ReadOnly>true</ReadOnly>
+							<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<EditMode>EnterOnInput</EditMode>
+							<Font ref="style:NormalTextFont" height="14" kind="StyleItem" scale="100"/>
+							<ContextMenu name="ОбщаяСтоимостьКонтекстноеМеню" id="8"/>
+							<ExtendedTooltip name="ОбщаяСтоимостьРасширеннаяПодсказка" id="9"/>
+						</LabelField>
+					</ChildItems>
+				</UsualGroup>
+				<Button name="ФормаЗаписаться" id="35">
+					<Type>UsualButton</Type>
+					<DefaultButton>true</DefaultButton>
+					<AutoMaxWidth>false</AutoMaxWidth>
+					<MaxWidth>30</MaxWidth>
+					<Height>2</Height>
+					<HorizontalStretch>true</HorizontalStretch>
+					<CommandName>Form.Command.Записаться</CommandName>
+					<TextColor>style:FieldSelectedTextColor</TextColor>
+					<BackColor>style:AccentColor</BackColor>
+					<Font ref="style:NormalTextFont" height="11" kind="StyleItem" scale="100"/>
+					<Shape>Oval</Shape>
+					<ShapeRepresentation>Always</ShapeRepresentation>
+					<ExtendedTooltip name="ФормаЗаписатьсяРасширеннаяПодсказка" id="36"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
