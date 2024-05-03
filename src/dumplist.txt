@@ -1,3 +1,2 @@
-﻿New: Style.Автосервис
-New: Style.Автосервис.Style
+﻿New: Configuration.Автосервис.Logo
 Modified: Configuration.Автосервис
