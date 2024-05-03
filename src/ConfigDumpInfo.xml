@@ -17,8 +17,18 @@
 		<Metadata name="Catalog.Услуги.Form.ФормаСписка.Form" id="d1a2f174-d50e-44b8-bd2e-90940a7682b0.0" configVersion="c09339914a100648b1ce31e46c6d612900000000"/>
 		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46" configVersion="94008598cfcef84e9980548655d8c69d00000000"/>
 		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента.Form" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46.0" configVersion="67e5cec1c8fd7b43b2c498fc3f85647400000000"/>
-		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="146333d15c353845bb4595593645844c00000000"/>
+		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="de54225efa0a384d907f49c61791848100000000"/>
 		<Metadata name="Configuration.Автосервис.Logo" id="2f5ad048-a8a3-47f6-aef1-2c46b89ba757.1" configVersion="1a803d5f0989e149aad277e2376c453a00000000"/>
+		<Metadata name="Document.ЗаписьКлиента" id="e00b92c9-66d8-4a71-9e63-a5d841debff8" configVersion="eb15511fdd9a30479821c2f60ddb881f00000000">
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="00ee9093-8f71-4ef0-841a-4e89c0c45f9b"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги" id="073a2701-43c3-4fbb-9aed-c6f41e6f61f9"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="46ce0805-d447-4c49-9c63-5b804fd9a306"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="f67caae0-9076-4059-a036-60657bf796cb"/>
+		</Metadata>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента" id="fcb66033-905c-4964-905f-21a6ddd49740" configVersion="6c8545de0ff0664081b3ab137a88f1d700000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента.Form" id="fcb66033-905c-4964-905f-21a6ddd49740.0" configVersion="3f9ddebfc68341448f3bcd8ef5c4e25300000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3" configVersion="d1c2ee8ae9b1c144a3d1e02f31f1ae9700000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3.0" configVersion="d9c4133ee4f0054b9244660af1e6c3ad00000000"/>
 		<Metadata name="Language.Русский" id="b7c74c9c-6ffe-44d5-8b35-7711b27b85ef" configVersion="52842f6f1540894b919a6b7f513c78d700000000"/>
 		<Metadata name="Style.Автосервис" id="5b99511c-1666-4998-90f6-982505c74997" configVersion="85d3f8040eddc2438086d18b5d62cace00000000"/>
 		<Metadata name="Style.Автосервис.Style" id="5b99511c-1666-4998-90f6-982505c74997.0" configVersion="0519ce1a07061b4b8862e9d7d91f28bc00000000"/>

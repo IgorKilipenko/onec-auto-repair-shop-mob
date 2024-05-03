@@ -249,6 +249,7 @@
 			<Style>Автосервис</Style>
 			<Catalog>Услуги</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Document>ЗаписьКлиента</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
