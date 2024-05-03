@@ -248,6 +248,7 @@
 			<Language>Русский</Language>
 			<Style>Автосервис</Style>
 			<Catalog>Услуги</Catalog>
+			<Catalog>Сотрудники</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

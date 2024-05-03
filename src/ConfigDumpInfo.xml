@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
+		<Metadata name="Catalog.Сотрудники" id="dc80cdc7-e4a2-4a8b-b996-9c7acee3ee98" configVersion="ae0830af6b92584884d638c42cfe3d0400000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора" id="10dfce72-f907-4324-824e-a14a609a21eb" configVersion="f6a0573ba9775b40b999624bdffa1aa300000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора.Form" id="10dfce72-f907-4324-824e-a14a609a21eb.0" configVersion="0a4fe88efaa1e54cb409281d968d9b8400000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка" id="59c54121-57e0-4ef5-8145-9702a5bbb026" configVersion="267c48877572de4688ec773613915c7b00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="59c54121-57e0-4ef5-8145-9702a5bbb026.0" configVersion="67cc336c0db5c04594e291a711df5c3600000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="a97ca6ad-df22-411e-8a04-b32f9d287fba" configVersion="cdda2acc9cb541438fba15eeb1aa7a2600000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="a97ca6ad-df22-411e-8a04-b32f9d287fba.0" configVersion="60461e8316a0514c8a494afa36653bde00000000"/>
 		<Metadata name="Catalog.Услуги" id="0bebc44e-0c04-4b6a-b975-57d3a54b6609" configVersion="389776d4cbeb494a8775bebeff130c8a00000000">
 			<Metadata name="Catalog.Услуги.Attribute.Стоимость" id="72cb84a6-60ea-4701-931c-e7b7fdfbacc2"/>
 		</Metadata>
@@ -10,7 +17,7 @@
 		<Metadata name="Catalog.Услуги.Form.ФормаСписка.Form" id="d1a2f174-d50e-44b8-bd2e-90940a7682b0.0" configVersion="c09339914a100648b1ce31e46c6d612900000000"/>
 		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46" configVersion="94008598cfcef84e9980548655d8c69d00000000"/>
 		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента.Form" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46.0" configVersion="67e5cec1c8fd7b43b2c498fc3f85647400000000"/>
-		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="4d870c5928babc49957f32ef20eb302d00000000"/>
+		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="146333d15c353845bb4595593645844c00000000"/>
 		<Metadata name="Configuration.Автосервис.Logo" id="2f5ad048-a8a3-47f6-aef1-2c46b89ba757.1" configVersion="1a803d5f0989e149aad277e2376c453a00000000"/>
 		<Metadata name="Language.Русский" id="b7c74c9c-6ffe-44d5-8b35-7711b27b85ef" configVersion="52842f6f1540894b919a6b7f513c78d700000000"/>
 		<Metadata name="Style.Автосервис" id="5b99511c-1666-4998-90f6-982505c74997" configVersion="85d3f8040eddc2438086d18b5d62cace00000000"/>
