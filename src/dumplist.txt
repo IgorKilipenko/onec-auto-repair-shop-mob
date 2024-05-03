@@ -1,6 +1,4 @@
-﻿New: Document.ЗаписьКлиента
-New: Document.ЗаписьКлиента.Form.ФормаДокумента
-New: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-New: Document.ЗаписьКлиента.Form.ФормаСписка
-New: Document.ЗаписьКлиента.Form.ФормаСписка.Form
+﻿New: DataProcessor.СозданиеЗаписиКлиента
+New: DataProcessor.СозданиеЗаписиКлиента.Form.Форма
+New: DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form
 Modified: Configuration.Автосервис

@@ -250,6 +250,7 @@
 			<Catalog>Услуги</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Document>ЗаписьКлиента</Document>
+			<DataProcessor>СозданиеЗаписиКлиента</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
