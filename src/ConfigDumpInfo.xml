@@ -17,10 +17,10 @@
 		<Metadata name="Catalog.Услуги.Form.ФормаСписка.Form" id="d1a2f174-d50e-44b8-bd2e-90940a7682b0.0" configVersion="c09339914a100648b1ce31e46c6d612900000000"/>
 		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46" configVersion="94008598cfcef84e9980548655d8c69d00000000"/>
 		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента.Form" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46.0" configVersion="67e5cec1c8fd7b43b2c498fc3f85647400000000"/>
-		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="bac3ca63f0274641a60ab8ff193f0e1600000000"/>
+		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="2bff3db7c36fc64186def2f8d82cceb600000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="2f5ad048-a8a3-47f6-aef1-2c46b89ba757.8" configVersion="4de5e75ef62bbe49b5663b037e5a156d00000000"/>
 		<Metadata name="Configuration.Автосервис.Logo" id="2f5ad048-a8a3-47f6-aef1-2c46b89ba757.1" configVersion="1a803d5f0989e149aad277e2376c453a00000000"/>
-		<Metadata name="DataProcessor.СозданиеЗаписиКлиента" id="037d7b0d-7361-44f3-8fc2-5bf4774516c3" configVersion="bffdd88fc8bd3b4db1991b8a99ff125100000000">
+		<Metadata name="DataProcessor.СозданиеЗаписиКлиента" id="037d7b0d-7361-44f3-8fc2-5bf4774516c3" configVersion="64dd59dad3965342be10a9fe35888d9300000000">
 			<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Attribute.ДатаЗаписи" id="0c6f8806-d322-4658-9b49-f993f87cf11e"/>
 			<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Attribute.ОбщаяСтоимость" id="2ef4d42d-d0b5-4e82-b779-04d3781844c2"/>
 			<Metadata name="DataProcessor.СозданиеЗаписиКлиента.TabularSection.Услуги.Attribute.Количество" id="4015bb10-551c-42e8-99e9-885fa5ddcb5c"/>
@@ -29,8 +29,8 @@
 			<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Attribute.Сотрудник" id="bec0dff6-152a-449a-8bd0-6e79cafc38c0"/>
 			<Metadata name="DataProcessor.СозданиеЗаписиКлиента.TabularSection.Услуги.Attribute.Услуга" id="db8eec13-5010-43d5-8f16-990077474f5a"/>
 		</Metadata>
-		<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Form.Форма" id="339642fe-2184-4e8f-9ab0-8db6d277829d" configVersion="fe6f93b9f5fd9149b4211a7954f8e95900000000"/>
-		<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form" id="339642fe-2184-4e8f-9ab0-8db6d277829d.0" configVersion="844c08ea8faffb4a8ac0b33c9114fa2900000000"/>
+		<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Form.Форма" id="339642fe-2184-4e8f-9ab0-8db6d277829d" configVersion="ed084ff649f3a243bb3ad532bdba806500000000"/>
+		<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form" id="339642fe-2184-4e8f-9ab0-8db6d277829d.0" configVersion="19c3bcf31b8a6641ad92a3bb4510218600000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="e00b92c9-66d8-4a71-9e63-a5d841debff8" configVersion="db09b85fe08b124baf1bd95aaaeba38800000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="00ee9093-8f71-4ef0-841a-4e89c0c45f9b"/>
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги" id="073a2701-43c3-4fbb-9aed-c6f41e6f61f9"/>

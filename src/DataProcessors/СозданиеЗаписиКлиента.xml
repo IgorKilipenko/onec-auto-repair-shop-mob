@@ -16,7 +16,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Создание записи клиента</v8:content>
+					<v8:content>Запись клиентов на услугу</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -48,13 +48,13 @@
 					<Format>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>ДФ='dd.MM.yyyy HH.MM'</v8:content>
+							<v8:content>ДФ='dd.MM.yyyy HH.mm'</v8:content>
 						</v8:item>
 					</Format>
 					<EditFormat>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>ДФ='dd.MM.yyyy HH.MM'</v8:content>
+							<v8:content>ДФ='dd.MM.yyyy HH.mm'</v8:content>
 						</v8:item>
 					</EditFormat>
 					<ToolTip/>
@@ -237,7 +237,7 @@
 							<MinValue xsi:nil="true"/>
 							<MaxValue xsi:nil="true"/>
 							<FillFromFillingValue>false</FillFromFillingValue>
-							<FillValue xsi:type="xs:decimal">0</FillValue>
+							<FillValue xsi:type="xs:decimal">1</FillValue>
 							<FillChecking>ShowError</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 							<ChoiceParameterLinks/>

@@ -1,0 +1,4 @@
+﻿Modified: Configuration.Автосервис
+Modified: DataProcessor.СозданиеЗаписиКлиента
+Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма
+Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form

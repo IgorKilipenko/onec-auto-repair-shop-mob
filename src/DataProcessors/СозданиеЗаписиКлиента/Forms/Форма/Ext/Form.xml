@@ -11,6 +11,7 @@
 			<TitleLocation>Top</TitleLocation>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<AutoMarkIncomplete>true</AutoMarkIncomplete>
 			<ContextMenu name="ДатаЗаписиКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="ДатаЗаписиРасширеннаяПодсказка" id="3"/>
 			<Events>
@@ -23,15 +24,19 @@
 			<TitleLocation>Top</TitleLocation>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<AutoMarkIncomplete>true</AutoMarkIncomplete>
 			<ContextMenu name="СотрудникКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="СотрудникРасширеннаяПодсказка" id="6"/>
 		</InputField>
 		<Table name="Услуги" id="10">
 			<Representation>List</Representation>
+			<TitleLocation>Top</TitleLocation>
 			<AutoInsertNewRow>true</AutoInsertNewRow>
+			<AutoMarkIncomplete>true</AutoMarkIncomplete>
 			<EnableStartDrag>true</EnableStartDrag>
 			<EnableDrag>true</EnableDrag>
 			<DataPath>Объект.Услуги</DataPath>
+			<TitleFont ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
 			<RowFilter xsi:nil="true"/>
 			<ContextMenu name="УслугиКонтекстноеМеню" id="11"/>
 			<AutoCommandBar name="УслугиКоманднаяПанель" id="12"/>
@@ -74,13 +79,18 @@
 					<DataPath>Объект.Услуги.Услуга</DataPath>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<AutoMarkIncomplete>true</AutoMarkIncomplete>
 					<ContextMenu name="УслугиУслугаКонтекстноеМеню" id="27"/>
 					<ExtendedTooltip name="УслугиУслугаРасширеннаяПодсказка" id="28"/>
+					<Events>
+						<Event name="OnChange">УслугиУслугаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="УслугиКоличество" id="29">
 					<DataPath>Объект.Услуги.Количество</DataPath>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<AutoMarkIncomplete>true</AutoMarkIncomplete>
 					<ContextMenu name="УслугиКоличествоКонтекстноеМеню" id="30"/>
 					<ExtendedTooltip name="УслугиКоличествоРасширеннаяПодсказка" id="31"/>
 					<Events>
@@ -126,7 +136,7 @@
 					<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="40"/>
 					<ChildItems>
 						<LabelDecoration name="ДекорацияОбщаяСтоимость" id="41">
-							<Font ref="style:NormalTextFont" height="11" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+							<Font ref="style:NormalTextFont" height="10" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
 							<Title formatted="false">
 								<v8:item>
 									<v8:lang>ru</v8:lang>
