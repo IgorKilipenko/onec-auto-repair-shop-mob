@@ -247,8 +247,13 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Style>Автосервис</Style>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>ПолныеПрава</Role>
+			<Role>НеавторизованныйПользователь</Role>
+			<Role>АвторизованныйПользователь</Role>
 			<Catalog>Услуги</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Document>ЗаписьКлиента</Document>
 			<DataProcessor>СозданиеЗаписиКлиента</DataProcessor>
 		</ChildObjects>

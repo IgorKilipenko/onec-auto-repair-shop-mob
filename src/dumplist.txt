@@ -1,4 +1,10 @@
-﻿Modified: Configuration.Автосервис
-Modified: DataProcessor.СозданиеЗаписиКлиента
-Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма
-Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form
+﻿New: Catalog.Пользователи
+New: Configuration.Автосервис.SessionModule
+New: Role.АвторизованныйПользователь
+New: Role.АвторизованныйПользователь.Rights
+New: Role.НеавторизованныйПользователь
+New: Role.НеавторизованныйПользователь.Rights
+New: Role.ПолныеПрава
+New: Role.ПолныеПрава.Rights
+New: SessionParameter.ТекущийПользователь
+Modified: Configuration.Автосервис
