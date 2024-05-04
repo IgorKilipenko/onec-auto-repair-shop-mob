@@ -19,7 +19,8 @@
             },
             "NestedFunctionInParameters": false,
             "CommonModuleInvalidType": false,
-            "NumberOfValuesInStructureConstructor": false
+            "NumberOfValuesInStructureConstructor": false,
+            "MagicNumber": false
         }
     }
 }
