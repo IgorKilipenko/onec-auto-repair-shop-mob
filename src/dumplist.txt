@@ -1,10 +1,5 @@
-﻿New: Catalog.Пользователи
-New: Configuration.Автосервис.SessionModule
-New: Role.АвторизованныйПользователь
-New: Role.АвторизованныйПользователь.Rights
-New: Role.НеавторизованныйПользователь
-New: Role.НеавторизованныйПользователь.Rights
-New: Role.ПолныеПрава
-New: Role.ПолныеПрава.Rights
-New: SessionParameter.ТекущийПользователь
+﻿New: CommonForm.АутентификацияПользователя
+New: CommonForm.АутентификацияПользователя.Form
+New: CommonModule.Аутентификация
+New: CommonModule.Аутентификация.Module
 Modified: Configuration.Автосервис
