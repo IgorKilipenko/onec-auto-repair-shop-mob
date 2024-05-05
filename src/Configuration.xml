@@ -47,7 +47,9 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">MobilePlatformApplication</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<DefaultRoles/>
+			<DefaultRoles>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.НеавторизованныйПользователь</xr:Item>
+			</DefaultRoles>
 			<Vendor/>
 			<Version/>
 			<UpdateCatalogAddress/>
@@ -247,12 +249,14 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Style>Автосервис</Style>
+			<CommonPicture>Логотип</CommonPicture>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>ПолныеПрава</Role>
 			<Role>НеавторизованныйПользователь</Role>
 			<Role>АвторизованныйПользователь</Role>
 			<CommonModule>Аутентификация</CommonModule>
 			<CommonCommand>Выход</CommonCommand>
+			<Constant>АдресСервераИБ</Constant>
 			<CommonForm>АутентификацияПользователя</CommonForm>
 			<Catalog>Услуги</Catalog>
 			<Catalog>Сотрудники</Catalog>

@@ -7,6 +7,19 @@
 			<Height>10</Height>
 			<Visibility>
 				<xr:Common>true</xr:Common>
+				<xr:Value name="Role.ПолныеПрава">false</xr:Value>
+				<xr:Value name="Role.НеавторизованныйПользователь">false</xr:Value>
+				<xr:Value name="Role.АвторизованныйПользователь">true</xr:Value>
+			</Visibility>
+		</Item>
+		<Item>
+			<Form>CommonForm.АутентификацияПользователя</Form>
+			<Height>10</Height>
+			<Visibility>
+				<xr:Common>true</xr:Common>
+				<xr:Value name="Role.ПолныеПрава">false</xr:Value>
+				<xr:Value name="Role.НеавторизованныйПользователь">true</xr:Value>
+				<xr:Value name="Role.АвторизованныйПользователь">false</xr:Value>
 			</Visibility>
 		</Item>
 	</Column>

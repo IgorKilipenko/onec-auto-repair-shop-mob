@@ -2,11 +2,134 @@
 <Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<ChildItems>
-		<Button name="Вход" id="1">
-			<Type>UsualButton</Type>
-			<CommandName>Form.Command.Вход</CommandName>
-			<ExtendedTooltip name="ВходРасширеннаяПодсказка" id="2"/>
-		</Button>
+		<UsualGroup name="ГруппаШапка" id="6">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа шапка</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа шапка</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ToolTipRepresentation>None</ToolTipRepresentation>
+			<HorizontalStretch>true</HorizontalStretch>
+			<Group>Vertical</Group>
+			<HorizontalAlign>Center</HorizontalAlign>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаШапкаРасширеннаяПодсказка" id="7"/>
+			<ChildItems>
+				<LabelDecoration name="ДекорацияПустая1" id="14">
+					<ContextMenu name="ДекорацияПустая1КонтекстноеМеню" id="15"/>
+					<ExtendedTooltip name="ДекорацияПустая1РасширеннаяПодсказка" id="16"/>
+				</LabelDecoration>
+				<PictureDecoration name="ДекорацияЛоготип" id="3">
+					<Title formatted="false">
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Декорация логотип</v8:content>
+						</v8:item>
+					</Title>
+					<Picture>
+						<xr:Ref>CommonPicture.Логотип</xr:Ref>
+						<xr:LoadTransparent>true</xr:LoadTransparent>
+					</Picture>
+					<ContextMenu name="ДекорацияЛоготипКонтекстноеМеню" id="4"/>
+					<ExtendedTooltip name="ДекорацияЛоготипРасширеннаяПодсказка" id="5"/>
+				</PictureDecoration>
+				<LabelDecoration name="ДекорацияПустая2" id="17">
+					<ContextMenu name="ДекорацияПустая2КонтекстноеМеню" id="18"/>
+					<ExtendedTooltip name="ДекорацияПустая2РасширеннаяПодсказка" id="19"/>
+				</LabelDecoration>
+				<LabelDecoration name="ДекорацияАвтосервис" id="8">
+					<Font ref="style:NormalTextFont" height="16" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+					<Title formatted="false">
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Автосервис</v8:content>
+						</v8:item>
+					</Title>
+					<HorizontalAlign>Center</HorizontalAlign>
+					<VerticalAlign>Center</VerticalAlign>
+					<ContextMenu name="ДекорацияАвтосервисКонтекстноеМеню" id="9"/>
+					<ExtendedTooltip name="ДекорацияАвтосервисРасширеннаяПодсказка" id="10"/>
+				</LabelDecoration>
+				<LabelDecoration name="ДекорацияПустая3" id="20">
+					<ContextMenu name="ДекорацияПустая3КонтекстноеМеню" id="21"/>
+					<ExtendedTooltip name="ДекорацияПустая3РасширеннаяПодсказка" id="22"/>
+				</LabelDecoration>
+				<LabelDecoration name="ДекорацияЛогин" id="11">
+					<Font ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem" scale="100"/>
+					<Title formatted="false">
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Логин пользователя:</v8:content>
+						</v8:item>
+					</Title>
+					<ContextMenu name="ДекорацияЛогинКонтекстноеМеню" id="12"/>
+					<ExtendedTooltip name="ДекорацияЛогинРасширеннаяПодсказка" id="13"/>
+				</LabelDecoration>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="ГруппаПоля" id="26">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа поля</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа поля</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Group>Vertical</Group>
+			<HorizontalAlign>Center</HorizontalAlign>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаПоляРасширеннаяПодсказка" id="27"/>
+			<ChildItems>
+				<InputField name="Логин" id="23">
+					<DataPath>Логин</DataPath>
+					<DefaultItem>true</DefaultItem>
+					<Height>1</Height>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ЛогинКонтекстноеМеню" id="24"/>
+					<ExtendedTooltip name="ЛогинРасширеннаяПодсказка" id="25"/>
+				</InputField>
+				<UsualGroup name="Группа1" id="28">
+					<HorizontalStretch>true</HorizontalStretch>
+					<VerticalStretch>true</VerticalStretch>
+					<Group>Vertical</Group>
+					<HorizontalAlign>Center</HorizontalAlign>
+					<VerticalAlign>Center</VerticalAlign>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="29"/>
+					<ChildItems>
+						<Button name="Вход" id="1">
+							<Type>UsualButton</Type>
+							<Representation>Text</Representation>
+							<DefaultButton>true</DefaultButton>
+							<AutoMaxWidth>false</AutoMaxWidth>
+							<MaxWidth>30</MaxWidth>
+							<HorizontalStretch>true</HorizontalStretch>
+							<CommandName>Form.Command.Вход</CommandName>
+							<TextColor>style:FieldSelectedTextColor</TextColor>
+							<BackColor>style:AccentColor</BackColor>
+							<Font ref="style:NormalTextFont" height="12" kind="StyleItem" scale="100"/>
+							<Shape>Oval</Shape>
+							<ExtendedTooltip name="ВходРасширеннаяПодсказка" id="2"/>
+						</Button>
+					</ChildItems>
+				</UsualGroup>
+			</ChildItems>
+		</UsualGroup>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Логин" id="1">
@@ -39,7 +162,7 @@
 					<v8:content>Вход</v8:content>
 				</v8:item>
 			</ToolTip>
-			<Action>Вход</Action>
+			<Action>ВходПользователя</Action>
 		</Command>
 	</Commands>
 </Form>
