@@ -55,16 +55,16 @@
 			<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Attribute.Сотрудник" id="bec0dff6-152a-449a-8bd0-6e79cafc38c0"/>
 			<Metadata name="DataProcessor.СозданиеЗаписиКлиента.TabularSection.Услуги.Attribute.Услуга" id="db8eec13-5010-43d5-8f16-990077474f5a"/>
 		</Metadata>
-		<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Form.Форма" id="339642fe-2184-4e8f-9ab0-8db6d277829d" configVersion="647b539c3932d34da1760bfc81908f8e00000000"/>
-		<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form" id="339642fe-2184-4e8f-9ab0-8db6d277829d.0" configVersion="e85265fda90ef5498ad0f433350b4f3400000000"/>
+		<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Form.Форма" id="339642fe-2184-4e8f-9ab0-8db6d277829d" configVersion="fc17d3fcf7f07d4996625040b8a1cbf000000000"/>
+		<Metadata name="DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form" id="339642fe-2184-4e8f-9ab0-8db6d277829d.0" configVersion="3ceacd26c6b8e140a6f2fd610fe1113e00000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="e00b92c9-66d8-4a71-9e63-a5d841debff8" configVersion="0e489c1579fc8f4aa2bceb4b7122eb7300000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="00ee9093-8f71-4ef0-841a-4e89c0c45f9b"/>
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги" id="073a2701-43c3-4fbb-9aed-c6f41e6f61f9"/>
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="46ce0805-d447-4c49-9c63-5b804fd9a306"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="f67caae0-9076-4059-a036-60657bf796cb"/>
 		</Metadata>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3" configVersion="f80dda2c5cac56469d100bb8ee34330d00000000"/>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3.0" configVersion="e9f15c1eb0439a429166e5d81fb7afab00000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3" configVersion="bd8486a4f2b77046b74d1097b14fd24700000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3.0" configVersion="de766000f17465478c0976f2134d5cd900000000"/>
 		<Metadata name="Language.Русский" id="b7c74c9c-6ffe-44d5-8b35-7711b27b85ef" configVersion="52842f6f1540894b919a6b7f513c78d700000000"/>
 		<Metadata name="Role.АвторизованныйПользователь" id="b89d11ba-a20d-412c-bbe7-b5672daf22db" configVersion="d91801102cec294eabca7612199441f900000000"/>
 		<Metadata name="Role.АвторизованныйПользователь.Rights" id="b89d11ba-a20d-412c-bbe7-b5672daf22db.0" configVersion="400092893f827446bb48185fd7ded10900000000"/>

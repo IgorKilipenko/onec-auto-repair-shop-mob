@@ -1,9 +1,4 @@
-﻿New: CommonModule.СинхронизацияДанных
-New: CommonModule.СинхронизацияДанных.Module
-Modified: Configuration.Автосервис
-Modified: Configuration.Автосервис.MainSectionCommandInterface
-Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма
+﻿Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма
 Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form
-Modified: Document.ЗаписьКлиента
 Modified: Document.ЗаписьКлиента.Form.ФормаСписка
 Modified: Document.ЗаписьКлиента.Form.ФормаСписка.Form
