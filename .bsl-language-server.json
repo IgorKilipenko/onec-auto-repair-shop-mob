@@ -20,7 +20,8 @@
             "NestedFunctionInParameters": false,
             "CommonModuleInvalidType": false,
             "NumberOfValuesInStructureConstructor": false,
-            "MagicNumber": false
+            "MagicNumber": false,
+            "UsingHardcodeNetworkAddress": false
         }
     }
 }
