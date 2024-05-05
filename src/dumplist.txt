@@ -1,13 +1,6 @@
-﻿New: CommonPicture.Логотип
-New: CommonPicture.Логотип.Picture
-New: Constant.АдресСервераИБ
-Modified: CommonCommand.Выход
+﻿Modified: CommonCommand.Выход
 Modified: CommonCommand.Выход.CommandModule
 Modified: CommonForm.АутентификацияПользователя
 Modified: CommonForm.АутентификацияПользователя.Form
 Modified: CommonModule.Аутентификация
 Modified: CommonModule.Аутентификация.Module
-Modified: Configuration.Автосервис
-Modified: Configuration.Автосервис.HomePageWorkArea
-Modified: Role.НеавторизованныйПользователь
-Modified: Role.НеавторизованныйПользователь.Rights

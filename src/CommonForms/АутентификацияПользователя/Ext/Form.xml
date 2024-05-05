@@ -97,10 +97,14 @@
 				<InputField name="Логин" id="23">
 					<DataPath>Логин</DataPath>
 					<DefaultItem>true</DefaultItem>
+					<TitleLocation>None</TitleLocation>
 					<Height>1</Height>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ЛогинКонтекстноеМеню" id="24"/>
 					<ExtendedTooltip name="ЛогинРасширеннаяПодсказка" id="25"/>
+					<Events>
+						<Event name="OnChange">ЛогинПриИзменении</Event>
+					</Events>
 				</InputField>
 				<UsualGroup name="Группа1" id="28">
 					<HorizontalStretch>true</HorizontalStretch>
