@@ -40,7 +40,7 @@
 		<Metadata name="CommonModule.СинхронизацияДанных.Module" id="0c94958d-a8cd-4ba4-a559-60b6bec78cf7.0" configVersion="00afb72857420845b173769cb3830fd900000000"/>
 		<Metadata name="CommonPicture.Логотип" id="35149a38-0f7e-41e9-986d-6ac34f8010f3" configVersion="072335930af5bc439911b339a6ffd30d00000000"/>
 		<Metadata name="CommonPicture.Логотип.Picture" id="35149a38-0f7e-41e9-986d-6ac34f8010f3.0" configVersion="d869b3224e1b1446b948146bd18f88b100000000"/>
-		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="583732166a701441bbd67c00c02c537d00000000"/>
+		<Metadata name="Configuration.Автосервис" id="d28aec8e-f3cf-420c-b454-a16a830dfd8d" configVersion="c2a9ac9fdcd9524a8c46ee9b2b20680a00000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="2f5ad048-a8a3-47f6-aef1-2c46b89ba757.8" configVersion="91f3faf03d10e44bb15ed4c5f2fcb87800000000"/>
 		<Metadata name="Configuration.Автосервис.Logo" id="2f5ad048-a8a3-47f6-aef1-2c46b89ba757.1" configVersion="1a803d5f0989e149aad277e2376c453a00000000"/>
 		<Metadata name="Configuration.Автосервис.MainSectionCommandInterface" id="2f5ad048-a8a3-47f6-aef1-2c46b89ba757.9" configVersion="ec0d933892841a40a4f3fdd53d67978c00000000"/>
@@ -63,8 +63,8 @@
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="46ce0805-d447-4c49-9c63-5b804fd9a306"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="f67caae0-9076-4059-a036-60657bf796cb"/>
 		</Metadata>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3" configVersion="bd8486a4f2b77046b74d1097b14fd24700000000"/>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3.0" configVersion="de766000f17465478c0976f2134d5cd900000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3" configVersion="a27072abada42d43986020df3de7aacb00000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="c816bb18-f9de-48c8-9fd4-6115760a0eb3.0" configVersion="3bb83718bd6abf41b2047c9acbc461d300000000"/>
 		<Metadata name="Language.Русский" id="b7c74c9c-6ffe-44d5-8b35-7711b27b85ef" configVersion="52842f6f1540894b919a6b7f513c78d700000000"/>
 		<Metadata name="Role.АвторизованныйПользователь" id="b89d11ba-a20d-412c-bbe7-b5672daf22db" configVersion="d91801102cec294eabca7612199441f900000000"/>
 		<Metadata name="Role.АвторизованныйПользователь.Rights" id="b89d11ba-a20d-412c-bbe7-b5672daf22db.0" configVersion="400092893f827446bb48185fd7ded10900000000"/>

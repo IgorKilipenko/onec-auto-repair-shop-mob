@@ -1,4 +1,3 @@
-﻿Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма
-Modified: DataProcessor.СозданиеЗаписиКлиента.Form.Форма.Form
+﻿Modified: Configuration.Автосервис
 Modified: Document.ЗаписьКлиента.Form.ФормаСписка
 Modified: Document.ЗаписьКлиента.Form.ФормаСписка.Form
