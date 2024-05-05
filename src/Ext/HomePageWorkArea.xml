@@ -13,7 +13,7 @@
 			</Visibility>
 		</Item>
 		<Item>
-			<Form>CommonForm.АутентификацияПользователя</Form>
+			<Form>CommonForm.АвторизацияПользователя</Form>
 			<Height>10</Height>
 			<Visibility>
 				<xr:Common>true</xr:Common>

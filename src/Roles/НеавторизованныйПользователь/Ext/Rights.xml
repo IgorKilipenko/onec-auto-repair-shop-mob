@@ -191,6 +191,13 @@
 		</right>
 	</object>
 	<object>
+		<name>CommonForm.АутентификацияПользователя</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>DataProcessor.СозданиеЗаписиКлиента.TabularSection.Услуги.Attribute.Сумма</name>
 		<right>
 			<name>View</name>
@@ -213,6 +220,32 @@
 		</right>
 	</object>
 	<object>
+		<name>CommonCommand.Регистрация</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Constant.АдресСервераИБ</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>DataProcessor.СозданиеЗаписиКлиента.Attribute.Сотрудник</name>
 		<right>
 			<name>View</name>
@@ -224,7 +257,7 @@
 		</right>
 	</object>
 	<object>
-		<name>CommonForm.АутентификацияПользователя</name>
+		<name>CommonForm.АвторизацияПользователя</name>
 		<right>
 			<name>View</name>
 			<value>true</value>

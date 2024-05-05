@@ -256,7 +256,9 @@
 			<Role>АвторизованныйПользователь</Role>
 			<CommonModule>Аутентификация</CommonModule>
 			<CommonCommand>Выход</CommonCommand>
+			<CommonCommand>Регистрация</CommonCommand>
 			<Constant>АдресСервераИБ</Constant>
+			<CommonForm>АвторизацияПользователя</CommonForm>
 			<CommonForm>АутентификацияПользователя</CommonForm>
 			<Catalog>Услуги</Catalog>
 			<Catalog>Сотрудники</Catalog>

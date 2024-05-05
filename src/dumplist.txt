@@ -1,6 +1,15 @@
-﻿Modified: CommonCommand.Выход
-Modified: CommonCommand.Выход.CommandModule
+﻿New: CommonCommand.Регистрация
+New: CommonCommand.Регистрация.CommandModule
+New: CommonForm.АвторизацияПользователя
+New: CommonForm.АвторизацияПользователя.Form
+New: Configuration.Автосервис.MainSectionCommandInterface
 Modified: CommonForm.АутентификацияПользователя
 Modified: CommonForm.АутентификацияПользователя.Form
 Modified: CommonModule.Аутентификация
 Modified: CommonModule.Аутентификация.Module
+Modified: Configuration.Автосервис
+Modified: Document.ЗаписьКлиента
+Modified: Role.АвторизованныйПользователь
+Modified: Role.АвторизованныйПользователь.Rights
+Modified: Role.НеавторизованныйПользователь
+Modified: Role.НеавторизованныйПользователь.Rights
