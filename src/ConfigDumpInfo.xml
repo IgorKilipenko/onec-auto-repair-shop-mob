@@ -1,9 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="Catalog.Пользователи" id="e7df4ec5-5210-476d-b024-952fe313812a" configVersion="485d78886d34b847aca35b85c8d05bd200000000">
+		<Metadata name="Catalog.Пользователи" id="e7df4ec5-5210-476d-b024-952fe313812a" configVersion="2a74011a02ea55419b3237f57b86f34600000000">
 			<Metadata name="Catalog.Пользователи.Attribute.ВнешнийUUID" id="31bfe201-5c3b-4880-9cd2-394c3428ee1b"/>
 		</Metadata>
+		<Metadata name="Catalog.Пользователи.Form.ФормаВыбора" id="476b34da-eb60-4b99-a3dc-6aa2033f0a2d" configVersion="4d8aa4a507692e44ba2e2a73a8fcf6f500000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаВыбора.Form" id="476b34da-eb60-4b99-a3dc-6aa2033f0a2d.0" configVersion="e780b9e22eb77441a85f46af8f8ad93100000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаСписка" id="f31f579c-684b-4e00-9ce6-144ae16013dc" configVersion="d61fd2f51f917745a7c0c3d2ebbcb91600000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="f31f579c-684b-4e00-9ce6-144ae16013dc.0" configVersion="d0f5da121cf3ce4db054462e3daaa1a300000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента" id="cfe0b73d-0586-4a0d-a0a8-6a0a8ea7f778" configVersion="347395711fe2e7439314f8f1a5a8f98b00000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента.Form" id="cfe0b73d-0586-4a0d-a0a8-6a0a8ea7f778.0" configVersion="575282253ebf4140870ff41ef8a9267400000000"/>
 		<Metadata name="Catalog.Сотрудники" id="dc80cdc7-e4a2-4a8b-b996-9c7acee3ee98" configVersion="ae0830af6b92584884d638c42cfe3d0400000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора" id="10dfce72-f907-4324-824e-a14a609a21eb" configVersion="f6a0573ba9775b40b999624bdffa1aa300000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаВыбора.Form" id="10dfce72-f907-4324-824e-a14a609a21eb.0" configVersion="0a4fe88efaa1e54cb409281d968d9b8400000000"/>

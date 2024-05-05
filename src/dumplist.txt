@@ -1,3 +1,7 @@
-﻿New: CommonCommand.Выход
-New: CommonCommand.Выход.CommandModule
-Modified: Configuration.Автосервис
+﻿New: Catalog.Пользователи.Form.ФормаВыбора
+New: Catalog.Пользователи.Form.ФормаВыбора.Form
+New: Catalog.Пользователи.Form.ФормаСписка
+New: Catalog.Пользователи.Form.ФормаСписка.Form
+New: Catalog.Пользователи.Form.ФормаЭлемента
+New: Catalog.Пользователи.Form.ФормаЭлемента.Form
+Modified: Catalog.Пользователи
