@@ -255,6 +255,7 @@
 			<Role>НеавторизованныйПользователь</Role>
 			<Role>АвторизованныйПользователь</Role>
 			<CommonModule>Аутентификация</CommonModule>
+			<CommonModule>СинхронизацияДанных</CommonModule>
 			<CommonCommand>Выход</CommonCommand>
 			<CommonCommand>Регистрация</CommonCommand>
 			<Constant>АдресСервераИБ</Constant>

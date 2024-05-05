@@ -39,5 +39,11 @@
 				<xr:Value name="Role.НеавторизованныйПользователь">false</xr:Value>
 			</Visibility>
 		</Command>
+		<Command name="Constant.АдресСервераИБ.StandardCommand.Open">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+				<xr:Value name="Role.АвторизованныйПользователь">false</xr:Value>
+			</Visibility>
+		</Command>
 	</CommandsVisibility>
 </CommandInterface>
