@@ -1,5 +1,2 @@
-﻿New: CommonForm.АутентификацияПользователя
-New: CommonForm.АутентификацияПользователя.Form
-New: CommonModule.Аутентификация
-New: CommonModule.Аутентификация.Module
-Modified: Configuration.Автосервис
+﻿Modified: CommonModule.Аутентификация
+Modified: CommonModule.Аутентификация.Module
