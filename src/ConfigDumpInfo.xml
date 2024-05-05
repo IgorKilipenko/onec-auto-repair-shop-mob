@@ -28,8 +28,8 @@
 		<Metadata name="Catalog.Услуги.Form.ФормаЭлемента.Form" id="ab2ea4e0-5aa7-49c0-a09f-9a2cdc19ea46.0" configVersion="67e5cec1c8fd7b43b2c498fc3f85647400000000"/>
 		<Metadata name="CommonCommand.Выход" id="c23a5fb7-4844-4f50-b272-c5aaa46ba002" configVersion="44890d2183c22b4f9cd456ef93ec7f2e00000000"/>
 		<Metadata name="CommonCommand.Выход.CommandModule" id="c23a5fb7-4844-4f50-b272-c5aaa46ba002.2" configVersion="590c58c150a9c04589f22b0b1f9815f000000000"/>
-		<Metadata name="CommonCommand.Регистрация" id="8f0ed55c-3c45-475e-a256-c49cbd3421e0" configVersion="2561fc3e0eff734bb763f691d68764d900000000"/>
-		<Metadata name="CommonCommand.Регистрация.CommandModule" id="8f0ed55c-3c45-475e-a256-c49cbd3421e0.2" configVersion="ec6a3b617fe3db4b9ebc086b0eef070d00000000"/>
+		<Metadata name="CommonCommand.Регистрация" id="8f0ed55c-3c45-475e-a256-c49cbd3421e0" configVersion="8cc2d2681908f346bf1b2fb9630e918f00000000"/>
+		<Metadata name="CommonCommand.Регистрация.CommandModule" id="8f0ed55c-3c45-475e-a256-c49cbd3421e0.2" configVersion="33286a86bdf1064ea6c63159ceae82c700000000"/>
 		<Metadata name="CommonForm.АвторизацияПользователя" id="c23b1222-b3c4-4c65-b72f-2614dfeae856" configVersion="4b2578eb3d76154cb07bb712bdb62cf300000000"/>
 		<Metadata name="CommonForm.АвторизацияПользователя.Form" id="c23b1222-b3c4-4c65-b72f-2614dfeae856.0" configVersion="7c5c40471aaaca43b8f050d532ab0a4200000000"/>
 		<Metadata name="CommonForm.АутентификацияПользователя" id="755ed621-50c7-4df7-b9e5-0ab5eeb39c3b" configVersion="0daaf9478a3f7a46a4c96f737ca4563200000000"/>
