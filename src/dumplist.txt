@@ -1,2 +1,3 @@
-﻿Modified: CommonModule.Аутентификация
-Modified: CommonModule.Аутентификация.Module
+﻿New: CommonCommand.Выход
+New: CommonCommand.Выход.CommandModule
+Modified: Configuration.Автосервис

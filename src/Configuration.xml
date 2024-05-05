@@ -252,6 +252,7 @@
 			<Role>НеавторизованныйПользователь</Role>
 			<Role>АвторизованныйПользователь</Role>
 			<CommonModule>Аутентификация</CommonModule>
+			<CommonCommand>Выход</CommonCommand>
 			<CommonForm>АутентификацияПользователя</CommonForm>
 			<Catalog>Услуги</Catalog>
 			<Catalog>Сотрудники</Catalog>
